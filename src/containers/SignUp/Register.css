@@ -1,0 +1,21 @@
+@media all and (min-width: 480px) {
+    .Login {
+        padding: 60px 0;
+    }
+
+    .Login form {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+}
+p {
+    text-align: center;
+}
+
+.mid{
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+    max-width: 100%;
+    padding: 35px;
+}
